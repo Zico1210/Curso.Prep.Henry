@@ -1,0 +1,5 @@
+¿Qué es una variable? Es almacenar valor a algo para poder usar mas adelante, como si le das valor a una moneda de 10 centavos con el cual puedes comprar 01 caramelo.
+¿Qué son strings? Son textos que tienen valor y, siempre están en comillas. Como a tu nombre le pones comillas y le llamaras string.
+¿Qué son funciones? Una función describe lo que estás ejecutando, por ejemplo al estar con una pelota de futblo describiras que jugarás o estás jugando futbol.
+¿Qué son declaraciones? Una declaración en js te devolverá, te dará o no una respuesta, así como 2 + 2 es igual a 4.
+¿Qué son valores boleanos? Los valores boleanos son respuestas que obtienes, éstas pueden ser por ejemplo verdadero o falso. Por ejemplo, Si tienes 5 años, y alguien te dice que eres adulto responderas falso.
