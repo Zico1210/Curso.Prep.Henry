@@ -38,19 +38,19 @@ const {
 describe('nuevaString', function() {
   it('Deberia ser un string', function() {
     expect(typeof nuevaString).toBe('string');
-  });
+  });return str;
 });
 
 describe('nuevoNum', function() {
   it('Deberia ser un numero', function() {
     expect(typeof nuevoNum).toBe('number');
-  });
+  });var positivo = 38;
 });
 
 describe('nuevoBool', function() {
   it('Deberia ser un booleano', function() {
     expect(typeof nuevoBool).toBe('boolean');
-  });
+  });var mEencantajavascript = true;
 });
 
 describe('nuevaResta', function() {
