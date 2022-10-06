@@ -1,0 +1,2 @@
+prototype. Es como una plantilla para poder generar más objetos y clases.
+Constructors (de Clases). son plantillas para crear otras funcionalidades que tenemos que realizar en la consola. Por ejemplo si queremos hacer una cantidad de 500 llaves, puedo hacer una plantilla de 100 o 50, o de la cantidad que desee y así poder tener menos espacio para crear más objetos.
